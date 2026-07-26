@@ -1,1038 +1,608 @@
 [
   {
-    "id": "pharm_q1",
+    "id": 1,
     "question": "Glass used for the preparation of vials ampoules and transfusion bottles is",
-    "options": [
-      "Type-II-Soda lime glass",
-      "Type-III sodalime glass",
-      "Borosilicate glass",
-      "Neutral glass"
-    ],
+    "options": ["Type-II-Soda lime glass", "Type-III sodalime glass", "Borosilicate glass", "Neutral glass"],
     "correct_answer": "Borosilicate glass",
     "explanation": "Borosilicate glass (Type I) has high hydrolytic resistance and thermal shock resistance, making it ideal for parenteral containers such as ampoules and vials."
   },
   {
-    "id": "pharm_q2",
+    "id": 2,
     "question": "Material used for construction of closure is",
-    "options": [
-      "Cork",
-      "Glass and plastics",
-      "Rubber and metals",
-      "All the above"
-    ],
+    "options": ["Cork", "Glass and plastics", "Rubber and metals", "All the above"],
     "correct_answer": "All the above",
     "explanation": "Pharmaceutical closures can be fabricated from cork, glass, plastics, metals, and rubber depending on the container type and compatibility."
   },
   {
-    "id": "pharm_q3",
+    "id": 3,
     "question": "Vulcanising agent used in rubber is",
-    "options": [
-      "Mineral oil",
-      "Thiazoles",
-      "Sulphur",
-      "Sulphides of iron"
-    ],
+    "options": ["Mineral oil", "Thiazoles", "Sulphur", "Sulphides of iron"],
     "correct_answer": "Sulphur",
     "explanation": "Sulphur is the primary vulcanizing agent used to cross-link polymer chains in rubber to improve elasticity, strength, and chemical stability."
   },
   {
-    "id": "pharm_q4",
+    "id": 4,
     "question": "One type of closure is",
-    "options": [
-      "Plug type",
-      "Cap type",
-      "Screw closure",
-      "All the above"
-    ],
+    "options": ["Plug type", "Cap type", "Screw closure", "All the above"],
     "correct_answer": "All the above",
     "explanation": "Common design classifications of pharmaceutical container closures include plug types, cap types, and threaded screw closures."
   },
   {
-    "id": "pharm_q5",
+    "id": 5,
     "question": "Propellant used in aerosols is",
-    "options": [
-      "Dichloro difluoromethane",
-      "Trichloromono fluoromethane",
-      "Dichloro tetrafluoroethane",
-      "All the above"
-    ],
+    "options": ["Dichloro difluoromethane", "Trichloromono fluoromethane", "Dichloro tetrafluoroethane", "All the above"],
     "correct_answer": "All the above",
     "explanation": "Chlorofluorocarbons (CFCs) such as CFC-12 (Dichloro difluoromethane), CFC-11 (Trichlorofluoromethane), and CFC-114 (Dichlorotetrafluoroethane) were traditionally used as propellants."
   },
   {
-    "id": "pharm_q6",
+    "id": 6,
     "question": "Ball mill works on the principle of",
-    "options": [
-      "Impact",
-      "Attrition",
-      "Impact and attrition",
-      "None"
-    ],
+    "options": ["Impact", "Attrition", "Impact and attrition", "None"],
     "correct_answer": "Impact and attrition",
     "explanation": "In a ball mill, size reduction occurs by impact from falling balls and attrition due to grinding action between the tumbling balls and the container wall."
   },
   {
-    "id": "pharm_q7",
+    "id": 7,
     "question": "The principle involved in the Hammer mill is",
-    "options": [
-      "Impact",
-      "Attrition",
-      "Cutting",
-      "None"
-    ],
+    "options": ["Impact", "Attrition", "Cutting", "None"],
     "correct_answer": "Impact",
     "explanation": "Hammer mills reduce size primarily through impact from high-speed rotating hammers striking the feed material."
   },
   {
-    "id": "pharm_q8",
+    "id": 8,
     "question": "Disintegrator works on the principle of",
-    "options": [
-      "Impact",
-      "Grinding",
-      "Attrition",
-      "Impact and grinding"
-    ],
+    "options": ["Impact", "Grinding", "Attrition", "Impact and grinding"],
     "correct_answer": "Impact and grinding",
     "explanation": "Disintegrators operate via heavy impact from high-speed beaters combined with grinding action against the surrounding casing."
   },
   {
-    "id": "pharm_q9",
+    "id": 9,
     "question": "Choose the mill used for powdering very hard drugs is",
-    "options": [
-      "Fluid energy mill",
-      "Disintegrator",
-      "Edge Runner mill",
-      "Colloid mill"
-    ],
+    "options": ["Fluid energy mill", "Disintegrator", "Edge Runner mill", "Colloid mill"],
     "correct_answer": "Disintegrator",
     "explanation": "Disintegrators are robust size-reduction machines suitable for crushing and powdering hard, tough crude drugs."
   },
   {
-    "id": "pharm_q10",
+    "id": 10,
     "question": "A conical rotor and a stator is present in which mill",
-    "options": [
-      "Colloid mill",
-      "Ball mill",
-      "Hammer mill",
-      "Fluid energy mill"
-    ],
+    "options": ["Colloid mill", "Ball mill", "Hammer mill", "Fluid energy mill"],
     "correct_answer": "Colloid mill",
     "explanation": "A colloid mill consists of a high-speed conical rotor revolving within a matching stationary stator with very narrow clearance."
   },
   {
-    "id": "pharm_q11",
+    "id": 11,
     "question": "The first edition of the pharmacopoeia of India was published in the year",
-    "options": [
-      "1947",
-      "1955",
-      "1966",
-      "1946"
-    ],
+    "options": ["1947", "1955", "1966", "1946"],
     "correct_answer": "1955",
     "explanation": "The first official edition of the Indian Pharmacopoeia (IP) was published in 1955 under the chairmanship of Dr. B. N. Ghosh."
   },
   {
-    "id": "pharm_q12",
+    "id": 12,
     "question": "The new edition of British pharmacopoeia is published after every",
-    "options": [
-      "4 years",
-      "6 years",
-      "5 years",
-      "Alternate year"
-    ],
+    "options": ["4 years", "6 years", "5 years", "Alternate year"],
     "correct_answer": "5 years",
     "explanation": "Historically, major compiled editions of the British Pharmacopoeia (BP) were revised and reissued on a standard 5-year schedule."
   },
   {
-    "id": "pharm_q13",
+    "id": 13,
     "question": "The first U.S.P. was published in",
-    "options": [
-      "English",
-      "Latin",
-      "French",
-      "English and Latin"
-    ],
+    "options": ["English", "Latin", "French", "English and Latin"],
     "correct_answer": "English and Latin",
     "explanation": "The first United States Pharmacopeia, published in 1820, was printed in dual languages: English and Latin."
   },
   {
-    "id": "pharm_q14",
+    "id": 14,
     "question": "The output of size reduction of material in a machine depends on",
-    "options": [
-      "Chemical nature",
-      "Bulk density",
-      "Physical character",
-      "Material structure"
-    ],
+    "options": ["Chemical nature", "Bulk density", "Physical character", "Material structure"],
     "correct_answer": "Bulk density",
     "explanation": "Bulk density influences machine feed rate, chamber filling, and volumetric throughput during industrial size reduction."
   },
   {
-    "id": "pharm_q15",
+    "id": 15,
     "question": "Roller mill works on the principle of",
-    "options": [
-      "Impact",
-      "Attrition",
-      "Compression",
-      "Compression & Attrition"
-    ],
+    "options": ["Impact", "Attrition", "Compression", "Compression & Attrition"],
     "correct_answer": "Compression & Attrition",
     "explanation": "Roller mills reduce particle size primarily by applying compressive pressure as material passes between counter-rotating rollers, supplemented by attrition if rollers rotate at differential speeds."
   },
   {
-    "id": "pharm_q16",
+    "id": 16,
     "question": "Give the name of the mill in which no moving part is present",
-    "options": [
-      "Ball mill",
-      "Edge runner mill",
-      "Fluid energy mill",
-      "Roller mill"
-    ],
+    "options": ["Ball mill", "Edge runner mill", "Fluid energy mill", "Roller mill"],
     "correct_answer": "Fluid energy mill",
     "explanation": "Fluid energy mills have no internal moving mechanical parts; size reduction occurs through particle-to-particle collisions powered by high-velocity streams of compressed air or steam."
   },
   {
-    "id": "pharm_q17",
+    "id": 17,
     "question": "Temperature used for sterilisation of vaccines is",
-    "options": [
-      "71-72°C",
-      "61-62°C",
-      "55-60°C",
-      "98-100°C"
-    ],
+    "options": ["71-72°C", "61-62°C", "55-60°C", "98-100°C"],
     "correct_answer": "55-60°C",
     "explanation": "Heat-sensitive bacterial vaccines or sera are typically inactivated or pasteurized by exposure to low temperatures around 55-60°C for approximately one hour."
   },
   {
-    "id": "pharm_q18",
+    "id": 18,
     "question": "Surgical dressings are sterilised by",
-    "options": [
-      "Autoclave",
-      "Surgical dressings autoclave",
-      "Hot air oven",
-      "None"
-    ],
+    "options": ["Autoclave", "Surgical dressings autoclave", "Hot air oven", "None"],
     "correct_answer": "Surgical dressings autoclave",
     "explanation": "Porous materials like surgical dressings require high-pressure steam sterilization in dedicated porous-load or dressing autoclaves to achieve deep steam penetration."
   },
   {
-    "id": "pharm_q19",
+    "id": 19,
     "question": "The smallest size of capsule is represented by the number",
-    "options": [
-      "0",
-      "4",
-      "00",
-      "5"
-    ],
+    "options": ["0", "4", "00", "5"],
     "correct_answer": "5",
     "explanation": "For human oral hard gel capsules, size '5' is the smallest standard capsule size, whereas size '000' is the largest."
   },
   {
-    "id": "pharm_q20",
+    "id": 20,
     "question": "The maximum capacity of capsule is represented by the number",
-    "options": [
-      "000",
-      "5",
-      "4",
-      "3"
-    ],
+    "options": ["000", "5", "4", "3"],
     "correct_answer": "000",
     "explanation": "Size '000' hard gelatin capsules possess the highest volumetric capacity (~1.37 mL) among standard pharmaceutical sizes."
   },
   {
-    "id": "pharm_q21",
+    "id": 21,
     "question": "Unequal colour distribution on a tablet is",
-    "options": [
-      "Sticking",
-      "Lamination",
-      "Mottling",
-      "Capping"
-    ],
+    "options": ["Sticking", "Lamination", "Mottling", "Capping"],
     "correct_answer": "Mottling",
     "explanation": "Mottling is defined as an uneven distribution of color on the surface of a tablet, presenting light or dark spots."
   },
   {
-    "id": "pharm_q22",
+    "id": 22,
     "question": "Separation of tablet into two or more distinct layers is",
-    "options": [
-      "Picking",
-      "Capping",
-      "Lamination",
-      "Broken"
-    ],
+    "options": ["Picking", "Capping", "Lamination", "Broken"],
     "correct_answer": "Lamination",
     "explanation": "Lamination is a tablet processing defect where the tablet separates into two or more distinct parallel layers."
   },
   {
-    "id": "pharm_q23",
+    "id": 23,
     "question": "Tablets that are placed under the skin are",
-    "options": [
-      "Enteric coated tablets",
-      "Film coated tablets",
-      "Implants",
-      "Sublingual tablets"
-    ],
+    "options": ["Enteric coated tablets", "Film coated tablets", "Implants", "Sublingual tablets"],
     "correct_answer": "Implants",
     "explanation": "Implants are sterile solid dosage forms surgically inserted subcutaneously under the skin for long-term drug release."
   },
   {
-    "id": "pharm_q24",
+    "id": 24,
     "question": "Tablets which after oral administration release the drug at a desired time for prolonged effect are",
-    "options": [
-      "Multi compressed tablets",
-      "Multi layered tablets",
-      "Enteric coated tablets",
-      "Sustained action tablets"
-    ],
+    "options": ["Multi compressed tablets", "Multi layered tablets", "Enteric coated tablets", "Sustained action tablets"],
     "correct_answer": "Sustained action tablets",
     "explanation": "Sustained action (sustained-release) tablets release medication gradually over an extended time frame to prolong therapeutic concentration."
   },
   {
-    "id": "pharm_q25",
+    "id": 25,
     "question": "Substances used to impart elegance to the tablets are",
-    "options": [
-      "Adsorbents",
-      "Flavouring agents",
-      "Sweetening agents",
-      "Colouring agents"
-    ],
+    "options": ["Adsorbents", "Flavouring agents", "Sweetening agents", "Colouring agents"],
     "correct_answer": "Colouring agents",
     "explanation": "Colouring agents are added to pharmaceutical tablets to enhance aesthetic elegance, assist product identification, and improve patient compliance."
   },
   {
-    "id": "pharm_q26",
+    "id": 26,
     "question": "Dryer used for drying of the granules meant for the manufacture of tablets is",
-    "options": [
-      "Tunnel dryer",
-      "Rotary dryer",
-      "Fluidized bed dryer",
-      "Vaccum dryer"
-    ],
+    "options": ["Tunnel dryer", "Rotary dryer", "Fluidized bed dryer", "Vaccum dryer"],
     "correct_answer": "Fluidized bed dryer",
     "explanation": "Fluidized bed dryers (FBD) provide rapid, uniform drying of wet tablet granules due to efficient gas-solid heat and mass transfer."
   },
   {
-    "id": "pharm_q27",
+    "id": 27,
     "question": "Evaporator useful for evaporation of viscous liquids is",
-    "options": [
-      "Evaporating pan",
-      "Climbing film evaporator",
-      "Forced circulation evaporator",
-      "Horizontal film evaporator"
-    ],
+    "options": ["Evaporating pan", "Climbing film evaporator", "Forced circulation evaporator", "Horizontal film evaporator"],
     "correct_answer": "Forced circulation evaporator",
     "explanation": "Forced circulation evaporators maintain high liquid velocity via pumps, making them suitable for concentrating viscous solutions or liquids prone to fouling."
   },
   {
-    "id": "pharm_q28",
+    "id": 28,
     "question": "Filter media is",
-    "options": [
-      "Talc",
-      "Kaolin",
-      "Chalk",
-      "Cotton wool"
-    ],
+    "options": ["Talc", "Kaolin", "Chalk", "Cotton wool"],
     "correct_answer": "Cotton wool",
     "explanation": "Cotton wool acts as a primary porous membrane or surface filter medium to retain particulate solids, whereas talc, kaolin, and chalk function as filter aids."
   },
   {
-    "id": "pharm_q29",
+    "id": 29,
     "question": "Filter aid is",
-    "options": [
-      "Kieselguhr",
-      "Talc",
-      "Charcoal",
-      "All the above"
-    ],
+    "options": ["Kieselguhr", "Talc", "Charcoal", "All the above"],
     "correct_answer": "All the above",
     "explanation": "Kieselguhr (diatomaceous earth), talc, and activated charcoal are finely divided powders used as filter aids to prevent membrane clogging and improve filtrate clarity."
   },
   {
-    "id": "pharm_q30",
+    "id": 30,
     "question": "Method used for extraction of volatile oils is",
-    "options": [
-      "Steam distillation",
-      "Fractional distillation",
-      "Molecular distillation",
-      "Simple distillation"
-    ],
+    "options": ["Steam distillation", "Fractional distillation", "Molecular distillation", "Simple distillation"],
     "correct_answer": "Steam distillation",
     "explanation": "Steam distillation is the standard isolation method for volatile essential oils from plant materials without thermal decomposition."
   },
   {
-    "id": "pharm_q31",
+    "id": 31,
     "question": "Biological and blood products are dried by",
-    "options": [
-      "Freeze dryer",
-      "Evaporation",
-      "Both A & B",
-      "None"
-    ],
+    "options": ["Freeze dryer", "Evaporation", "Both A & B", "None"],
     "correct_answer": "Freeze dryer",
     "explanation": "Freeze-drying (lyophilization) sublimes ice at low temperatures and pressure, preventing thermal denaturation of heat-sensitive biologicals, blood plasma, and proteins."
   },
   {
-    "id": "pharm_q32",
+    "id": 32,
     "question": "Choose the one of the following gases used for sterilisation of medical products",
-    "options": [
-      "Ethylene oxide",
-      "Carbon dioxide",
-      "Nitrous oxide",
-      "Nitrogen"
-    ],
+    "options": ["Ethylene oxide", "Carbon dioxide", "Nitrous oxide", "Nitrogen"],
     "correct_answer": "Ethylene oxide",
     "explanation": "Ethylene oxide (EtO) is a gaseous alkylating agent used to sterilize heat-sensitive medical devices and plastic equipment."
   },
   {
-    "id": "pharm_q33",
+    "id": 33,
     "question": "Which is the mill used to obtain ointment of smooth texture of consistency is",
-    "options": [
-      "Ball mill",
-      "Cutter mill",
-      "Edge runner mill",
-      "Triple roller mill"
-    ],
+    "options": ["Ball mill", "Cutter mill", "Edge runner mill", "Triple roller mill"],
     "correct_answer": "Triple roller mill",
     "explanation": "Triple roller mills compress and shear dermatological pastes and ointments to produce smooth, uniform dispersion free of grit."
   },
   {
-    "id": "pharm_q34",
+    "id": 34,
     "question": "Arrow root powder is an example of",
-    "options": [
-      "Diluent",
-      "Binding agent",
-      "Glidant",
-      "Lubricant"
-    ],
+    "options": ["Diluent", "Binding agent", "Glidant", "Lubricant"],
     "correct_answer": "Diluent",
     "explanation": "Arrowroot starch serves as an organic tablet diluent or bulking agent in solid dosage form formulations."
   },
   {
-    "id": "pharm_q35",
+    "id": 35,
     "question": "The following is termed as moderately fine powder",
-    "options": [
-      "10/44",
-      "22/60",
-      "44/85",
-      "120"
-    ],
+    "options": ["10/44", "22/60", "44/85", "120"],
     "correct_answer": "44/85",
     "explanation": "Under IP specifications, a moderately fine powder is designated as 44/85 (where all particles pass through sieve 44 and not more than 40% pass through sieve 85)."
   },
   {
-    "id": "pharm_q36",
+    "id": 36,
     "question": "Malefern is an example of",
-    "options": [
-      "Etherial extract",
-      "Aqueous extract",
-      "Alcoholic extract",
-      "None"
-    ],
+    "options": ["Etherial extract", "Aqueous extract", "Alcoholic extract", "None"],
     "correct_answer": "Etherial extract",
     "explanation": "Malefern (Oleoresin of Aspidium) is traditionally extracted using ether solvent to yield its active lipid and oleoresinous constituents."
   },
   {
-    "id": "pharm_q37",
+    "id": 37,
     "question": "The animal used in the preparation of diphtherial antitoxin is",
-    "options": [
-      "Sheep",
-      "Calf",
-      "Rabbit",
-      "Horse"
-    ],
+    "options": ["Sheep", "Calf", "Rabbit", "Horse"],
     "correct_answer": "Horse",
     "explanation": "Diphtheria antitoxin is hyperimmune serum harvested from healthy horses immunized against toxoid toxins of Corynebacterium diphtheriae."
   },
   {
-    "id": "pharm_q38",
+    "id": 38,
     "question": "In hot air oven, temperature maintained for sterilization is",
-    "options": [
-      "160°C for one hour",
-      "121°C for 30 minutes",
-      "100°C for 30 minutes",
-      "56°C to 60°C for one hour"
-    ],
+    "options": ["160°C for one hour", "121°C for 30 minutes", "100°C for 30 minutes", "56°C to 60°C for one hour"],
     "correct_answer": "160°C for one hour",
     "explanation": "Standard dry heat sterilization in a hot air oven typically requires a minimum exposure of 160°C for 1 to 2 hours."
   },
   {
-    "id": "pharm_q39",
+    "id": 39,
     "question": "The vaccine that consists of suspension of living bacteria is",
-    "options": [
-      "Cholera",
-      "Plague",
-      "B.C.G",
-      "Typhoid"
-    ],
+    "options": ["Cholera", "Plague", "B.C.G", "Typhoid"],
     "correct_answer": "B.C.G",
     "explanation": "Bacille Calmette-Guérin (BCG) vaccine contains a live attenuated strain of Mycobacterium bovis."
   },
   {
-    "id": "pharm_q40",
+    "id": 40,
     "question": "The coating given for the tablets to dissolve in intestine but not in stomach is",
-    "options": [
-      "Sugar coating",
-      "Enteric coating",
-      "Pearl coating",
-      "Silver ring"
-    ],
+    "options": ["Sugar coating", "Enteric coating", "Pearl coating", "Silver ring"],
     "correct_answer": "Enteric coating",
     "explanation": "Enteric coatings remain intact in the acidic environment of the stomach and disintegrate in the higher pH of the small intestine."
   },
   {
-    "id": "pharm_q41",
+    "id": 41,
     "question": "As the thickness of the filtercake increases, the rate of filtration",
-    "options": [
-      "Decreased",
-      "Increased",
-      "Stationary",
-      "None"
-    ],
+    "options": ["Decreased", "Increased", "Stationary", "None"],
     "correct_answer": "Decreased",
     "explanation": "According to Darcy's Law, hydraulic resistance increases directly with filter cake thickness, reducing overall filtration rate."
   },
   {
-    "id": "pharm_q42",
+    "id": 42,
     "question": "Extremely thermolabile substances are dried by",
-    "options": [
-      "Tray dryer",
-      "Spray dryer",
-      "Vaccum dryer",
-      "Freeze drying"
-    ],
+    "options": ["Tray dryer", "Spray dryer", "Vaccum dryer", "Freeze drying"],
     "correct_answer": "Freeze drying",
     "explanation": "Freeze drying (lyophilization) is suitable for highly heat-sensitive compounds because drying takes place while frozen via sublimation."
   },
   {
-    "id": "pharm_q43",
+    "id": 43,
     "question": "The lack of ability to resist infection is called",
-    "options": [
-      "Immunity",
-      "Tolerance",
-      "Susceptibility",
-      "Disinfection"
-    ],
+    "options": ["Immunity", "Tolerance", "Susceptibility", "Disinfection"],
     "correct_answer": "Susceptibility",
     "explanation": "Susceptibility refers to the state of lacking sufficient resistance or vulnerability to pathogenic microorganisms."
   },
   {
-    "id": "pharm_q44",
+    "id": 44,
     "question": "Thermolabile solutions can be sterilised by",
-    "options": [
-      "Autoclave",
-      "Hot air oven",
-      "Bacteria proof filtration",
-      "Tyndallization"
-    ],
+    "options": ["Autoclave", "Hot air oven", "Bacteria proof filtration", "Tyndallization"],
     "correct_answer": "Bacteria proof filtration",
     "explanation": "Aseptic membrane filtration removes bacteria without thermal exposure, making it suitable for heat-sensitive liquids."
   },
   {
-    "id": "pharm_q45",
+    "id": 45,
     "question": "Drying by the process of sublimation is called as",
-    "options": [
-      "Spray drying",
-      "Vaccum drying",
-      "Freeze drying",
-      "Tray drying"
-    ],
+    "options": ["Spray drying", "Vaccum drying", "Freeze drying", "Tray drying"],
     "correct_answer": "Freeze drying",
     "explanation": "Freeze drying relies on sublimation, converting ice directly to water vapor without entering the liquid phase."
   },
   {
-    "id": "pharm_q46",
+    "id": 46,
     "question": "Steam distilation is carried out for",
-    "options": [
-      "Miscible liquids",
-      "Immiscible liquids",
-      "Enzyme Preparations",
-      "Volatile liquids"
-    ],
+    "options": ["Miscible liquids", "Immiscible liquids", "Enzyme Preparations", "Volatile liquids"],
     "correct_answer": "Immiscible liquids",
     "explanation": "Steam distillation isolates high-boiling water-immiscible compounds (such as essential oils) at temperatures below 100°C."
   },
   {
-    "id": "pharm_q47",
+    "id": 47,
     "question": "The process of extraction in which the drug is boiled along wih water for 10 minutes is known as",
-    "options": [
-      "Infusion",
-      "Decoction",
-      "Maceration",
-      "Percolation"
-    ],
+    "options": ["Infusion", "Decoction", "Maceration", "Percolation"],
     "correct_answer": "Decoction",
     "explanation": "Decoction involves boiling hard crude plant drugs in water for a specified period (typically 10-15 minutes) to extract water-soluble principles."
   },
   {
-    "id": "pharm_q48",
+    "id": 48,
     "question": "Dextrose injection is sterilised by",
-    "options": [
-      "Hot air oven",
-      "Autoclave",
-      "Tyndallization",
-      "Pasteurisation"
-    ],
+    "options": ["Hot air oven", "Autoclave", "Tyndallization", "Pasteurisation"],
     "correct_answer": "Autoclave",
     "explanation": "Standard aqueous Dextrose injections are heat-stable under moist heat conditions and sterilized via autoclaving (121°C)."
   },
   {
-    "id": "pharm_q49",
+    "id": 49,
     "question": "Tablets are tested for",
-    "options": [
-      "Pyrogens",
-      "Hardness",
-      "Alkalinity",
-      "Total solids"
-    ],
+    "options": ["Pyrogens", "Hardness", "Alkalinity", "Total solids"],
     "correct_answer": "Hardness",
     "explanation": "Hardness testing measures the mechanical breaking strength of tablets during quality control evaluation."
   },
   {
-    "id": "pharm_q50",
+    "id": 50,
     "question": "Substances which stimulate the reticulo endothelial system of the body to produce antibodies are",
-    "options": [
-      "Antibodies",
-      "Toxoids",
-      "Antitoxins",
-      "Lysosomes"
-    ],
+    "options": ["Antibodies", "Toxoids", "Antitoxins", "Lysosomes"],
     "correct_answer": "Toxoids",
     "explanation": "Inactivated microbial toxins (toxoids) retain antigenic reactivity to stimulate immune response without causing disease."
   },
   {
-    "id": "pharm_q51",
+    "id": 51,
     "question": "The animal used in the test for apyrogenic water",
-    "options": [
-      "Calf",
-      "Rabbit",
-      "Horse",
-      "Sheep"
-    ],
+    "options": ["Calf", "Rabbit", "Horse", "Sheep"],
     "correct_answer": "Rabbit",
     "explanation": "The official pharmacopoeial pyrogen test measures temperature response in healthy rabbits following intravenous injection."
   },
   {
-    "id": "pharm_q52",
+    "id": 52,
     "question": "Volatile oils are purified by",
-    "options": [
-      "Filtration",
-      "Decantation",
-      "Steam distillation",
-      "Evaporation"
-    ],
+    "options": ["Filtration", "Decantation", "Steam distillation", "Evaporation"],
     "correct_answer": "Steam distillation",
     "explanation": "Steam distillation separates and purifies heat-sensitive, water-immiscible volatile plant components."
   },
   {
-    "id": "pharm_q53",
+    "id": 53,
     "question": "Slugging process is used in the following preparation",
-    "options": [
-      "Capsules",
-      "Tablets",
-      "Powders",
-      "Ointments"
-    ],
+    "options": ["Capsules", "Tablets", "Powders", "Ointments"],
     "correct_answer": "Tablets",
     "explanation": "Slugging is a dry granulation method for compressing fine powders into large oversized tablets (slugs) before milling into granules."
   },
   {
-    "id": "pharm_q54",
+    "id": 54,
     "question": "The limits of sieve numbers for coarse powder",
-    "options": [
-      "No.10/44",
-      "No.22/65",
-      "No.44/85",
-      "No.120"
-    ],
+    "options": ["No.10/44", "No.22/65", "No.44/85", "No.120"],
     "correct_answer": "No.10/44",
     "explanation": "A coarse powder (10/44) passes through sieve number 10, with no more than 40% passing through sieve number 44."
   },
   {
-    "id": "pharm_q55",
+    "id": 55,
     "question": "Capsules are made up of",
-    "options": [
-      "Gelatin",
-      "Cellulose",
-      "Glycerin",
-      "Agar"
-    ],
+    "options": ["Gelatin", "Cellulose", "Glycerin", "Agar"],
     "correct_answer": "Gelatin",
     "explanation": "Gelatin, derived from collagen, is the primary structural shell constituent of pharmaceutical hard and soft capsules."
   },
   {
-    "id": "pharm_q56",
+    "id": 56,
     "question": "Fractional distillation is carried out for",
-    "options": [
-      "Miscible liquids",
-      "Immiscible liquids",
-      "Volatile oils",
-      "Fixed oils"
-    ],
+    "options": ["Miscible liquids", "Immiscible liquids", "Volatile oils", "Fixed oils"],
     "correct_answer": "Miscible liquids",
     "explanation": "Fractional distillation separates miscible liquids with close boiling points using a fractionating column."
   },
   {
-    "id": "pharm_q57",
+    "id": 57,
     "question": "The fine powder is obtained by passing through the sieve number",
-    "options": [
-      "22",
-      "44",
-      "85",
-      "120"
-    ],
+    "options": ["22", "44", "85", "120"],
     "correct_answer": "85",
     "explanation": "According to Indian Pharmacopoeia standards, a fine powder is defined as one in which all particles pass through a No. 85 mesh sieve."
   },
   {
-    "id": "pharm_q58",
+    "id": 58,
     "question": "The name of the equipment used to mix the liquid products is",
-    "options": [
-      "Fluid energy mill",
-      "Ball mill",
-      "Roller mill",
-      "Propeller mixer"
-    ],
+    "options": ["Fluid energy mill", "Ball mill", "Roller mill", "Propeller mixer"],
     "correct_answer": "Propeller mixer",
     "explanation": "Propeller mixers create axial fluid flow patterns suitable for blending low to medium viscosity liquid mixtures."
   },
   {
-    "id": "pharm_q59",
+    "id": 59,
     "question": "The process of exsiccation is carried out at degrees of centigrade",
-    "options": [
-      "105°",
-      "60°",
-      "150°",
-      "115°"
-    ],
+    "options": ["105°", "60°", "150°", "115°"],
     "correct_answer": "105°",
     "explanation": "Exsiccation (removal of water of crystallization) is commonly performed in ovens set at temperatures around 100-105°C."
   },
   {
-    "id": "pharm_q60",
+    "id": 60,
     "question": "The method of distillation used to concentrate liver extract",
-    "options": [
-      "Simple distillation",
-      "Steam distillation",
-      "Fractional distillation",
-      "Distillation under reduced pressure"
-    ],
+    "options": ["Simple distillation", "Steam distillation", "Fractional distillation", "Distillation under reduced pressure"],
     "correct_answer": "Distillation under reduced pressure",
     "explanation": "Thermolabile biological fluids like liver extracts are concentrated under vacuum to lower the boiling point and avoid heat degradation."
   },
   {
-    "id": "pharm_q61",
+    "id": 61,
     "question": "The product which is purified by the method of sublimation",
-    "options": [
-      "Sodium thiosulphate",
-      "Sulphur ointment",
-      "Sulphur",
-      "Sulphur trioxide"
-    ],
+    "options": ["Sodium thiosulphate", "Sulphur ointment", "Sulphur", "Sulphur trioxide"],
     "correct_answer": "Sulphur",
     "explanation": "Sublimation vaporizes solids directly to gas; elemental sulfur is purified via this mechanism to produce sublimed sulfur."
   },
   {
-    "id": "pharm_q62",
+    "id": 62,
     "question": "The distilled water which is used for the dilution of sterile powders for injection",
-    "options": [
-      "Purified water",
-      "Apyrogenic distilled water",
-      "Sterile apyrogenic distilled water",
-      "Distilled water"
-    ],
+    "options": ["Purified water", "Apyrogenic distilled water", "Sterile apyrogenic distilled water", "Distilled water"],
     "correct_answer": "Sterile apyrogenic distilled water",
     "explanation": "Water for Injection used to reconstitute parenteral powders must be both sterile and pyrogen-free."
   },
   {
-    "id": "pharm_q63",
+    "id": 63,
     "question": "In the process of sterilisation by Autoclave the bacteria are destroyed by",
-    "options": [
-      "Haemolysis",
-      "Reduction",
-      "Coagulation of proteins",
-      "Denaturation of blood cells"
-    ],
+    "options": ["Haemolysis", "Reduction", "Coagulation of proteins", "Denaturation of blood cells"],
     "correct_answer": "Coagulation of proteins",
     "explanation": "Saturated steam under pressure destroys microorganisms by irreversibly coagulating and denaturing structural proteins and enzymes."
   },
   {
-    "id": "pharm_q64",
+    "id": 64,
     "question": "The boiling point of the liquid can be reduced by",
-    "options": [
-      "Increasing the atmospheric pressure",
-      "Reducing the atmospheric pressure",
-      "Without altering the atmospheric pressure",
-      "Reducing the vapour pressure of the liquid"
-    ],
+    "options": ["Increasing the atmospheric pressure", "Reducing the atmospheric pressure", "Without altering the atmospheric pressure", "Reducing the vapour pressure of the liquid"],
     "correct_answer": "Reducing the atmospheric pressure",
     "explanation": "Lowering external ambient pressure reduces the temperature at which liquid vapor pressure equals ambient pressure."
   },
   {
-    "id": "pharm_q65",
+    "id": 65,
     "question": "The substance which stimulates the body to produce anti-bodies",
-    "options": [
-      "Anti-toxins",
-      "Anti-bodies",
-      "Serum",
-      "Antigens"
-    ],
+    "options": ["Anti-toxins", "Anti-bodies", "Serum", "Antigens"],
     "correct_answer": "Antigens",
     "explanation": "An antigen is any foreign molecular structure that binds to specific lymphocytes and stimulates an immune response, producing antibodies."
   },
   {
-    "id": "pharm_q66",
+    "id": 66,
     "question": "The test for pyrogens is carried out on",
-    "options": [
-      "Rat",
-      "Cat",
-      "Rabbit",
-      "Dog"
-    ],
+    "options": ["Rat", "Cat", "Rabbit", "Dog"],
     "correct_answer": "Rabbit",
     "explanation": "Rabbits are sensitive to pyrogen-induced fever, making them the standard animal model in official pharmacopoeial tests."
   },
   {
-    "id": "pharm_q67",
+    "id": 67,
     "question": "The rapid method of sterilisation in emergencies is followed by",
-    "options": [
-      "Autoclave",
-      "Filtration",
-      "Radiation",
-      "Hot air oven"
-    ],
+    "options": ["Autoclave", "Filtration", "Radiation", "Hot air oven"],
     "correct_answer": "Radiation",
     "explanation": "Ionizing radiation kills microorganisms quickly without requiring thermal heat buildup."
   },
   {
-    "id": "pharm_q68",
+    "id": 68,
     "question": "Tetanus serum contains",
-    "options": [
-      "Antigen",
-      "Toxoid",
-      "Anti-bodies",
-      "Pyrogens"
-    ],
+    "options": ["Antigen", "Toxoid", "Anti-bodies", "Pyrogens"],
     "correct_answer": "Anti-bodies",
     "explanation": "Tetanus antitoxin serum contains pre-formed neutralisation antibodies derived from hyperimmunized animal plasma."
   },
   {
-    "id": "pharm_q69",
+    "id": 69,
     "question": "Dusting powders should normally be passed through sieve no.",
-    "options": [
-      "100",
-      "120",
-      "60",
-      "40"
-    ],
+    "options": ["100", "120", "60", "40"],
     "correct_answer": "100",
     "explanation": "Dusting powders require fine particle size to eliminate grittiness and avoid skin irritation, typically requiring a Sieve No. 80 or 100 mesh."
   },
   {
-    "id": "pharm_q70",
+    "id": 70,
     "question": "The disintegration of a tablet within its prescribed time is due to the presence of",
-    "options": [
-      "Talc",
-      "Diluent",
-      "Starch",
-      "Acacia"
-    ],
+    "options": ["Talc", "Diluent", "Starch", "Acacia"],
     "correct_answer": "Starch",
     "explanation": "Starch acts as a disintegrant by swelling upon water contact, causing the tablet structure to break apart."
   },
   {
-    "id": "pharm_q71",
+    "id": 71,
     "question": "Glassware are sterilised by heating in",
-    "options": [
-      "Autoclave",
-      "Hot air oven",
-      "Furnace",
-      "Blowing hot air"
-    ],
+    "options": ["Autoclave", "Hot air oven", "Furnace", "Blowing hot air"],
     "correct_answer": "Hot air oven",
     "explanation": "Dry heat sterilization in a hot air oven (160°C) is suitable for laboratory glassware."
   },
   {
-    "id": "pharm_q72",
+    "id": 72,
     "question": "The production of antibodies in the host itself is known as",
-    "options": [
-      "Active Immunity",
-      "Passive Immunity",
-      "Susceptibility",
-      "Infection"
-    ],
+    "options": ["Active Immunity", "Passive Immunity", "Susceptibility", "Infection"],
     "correct_answer": "Active Immunity",
     "explanation": "Active immunity develops when an individual's immune system produces its own antibodies in response to antigen exposure."
   },
   {
-    "id": "pharm_q73",
+    "id": 73,
     "question": "The limit of sieve numbers for moderately coarse powder",
-    "options": [
-      "10/44",
-      "22/60",
-      "85",
-      "120"
-    ],
+    "options": ["10/44", "22/60", "85", "120"],
     "correct_answer": "22/60",
     "explanation": "A moderately coarse powder is designated as 22/60 under IP standards."
   },
   {
-    "id": "pharm_q74",
+    "id": 74,
     "question": "The disintegration time of table is",
-    "options": [
-      "60 mts",
-      "30 mts",
-      "15 mts",
-      "120 mts"
-    ],
+    "options": ["60 mts", "30 mts", "15 mts", "120 mts"],
     "correct_answer": "15 mts",
     "explanation": "Uncoated compressed pharmacopoeial tablets generally must disintegrate within a maximum limit of 15 minutes."
   },
   {
-    "id": "pharm_q75",
+    "id": 75,
     "question": "Aqueous solution containing thermolabile substance is concentrated by the process of",
-    "options": [
-      "Simple distillation",
-      "Evaporation under reduced pressure",
-      "Sublimation",
-      "Distillation under reduced pressure"
-    ],
+    "options": ["Simple distillation", "Evaporation under reduced pressure", "Sublimation", "Distillation under reduced pressure"],
     "correct_answer": "Evaporation under reduced pressure",
     "explanation": "Evaporating under vacuum reduces operating liquid temperature to prevent thermal decomposition of heat-sensitive compounds."
   },
   {
-    "id": "pharm_q76",
+    "id": 76,
     "question": "Volatile oils form crude drugs are isolated by the process of",
-    "options": [
-      "Simple distillation",
-      "Steam distillation",
-      "Fractional distillation",
-      "Distillation under reduced pressure"
-    ],
+    "options": ["Simple distillation", "Steam distillation", "Fractional distillation", "Distillation under reduced pressure"],
     "correct_answer": "Steam distillation",
     "explanation": "Steam distillation separates water-immiscible volatile plant components at temperatures below 100°C."
   },
   {
-    "id": "pharm_q77",
+    "id": 77,
     "question": "Light sensitive injection preparations are to be stored in",
-    "options": [
-      "Amber coloured container",
-      "Neutral glass container",
-      "Amber cloured neutral glass container",
-      "Amber coloured soda glass container"
-    ],
+    "options": ["Amber coloured container", "Neutral glass container", "Amber cloured neutral glass container", "Amber coloured soda glass container"],
     "correct_answer": "Amber coloured container",
     "explanation": "Amber glass filters actinic light rays, protecting light-sensitive active pharmaceutical ingredients."
   },
   {
-    "id": "pharm_q78",
+    "id": 78,
     "question": "The process of separating a liquid from solid particle by passing through a medum is known as",
-    "options": [
-      "Decantation",
-      "Sublimation",
-      "Filtration",
-      "Adsorption"
-    ],
+    "options": ["Decantation", "Sublimation", "Filtration", "Adsorption"],
     "correct_answer": "Filtration",
     "explanation": "Filtration is the physical separation of suspended solids from a fluid by passing the fluid through a porous medium."
   },
   {
-    "id": "pharm_q79",
+    "id": 79,
     "question": "The method of separating two miscible liquids having different boiling points is",
-    "options": [
-      "Sterilisation",
-      "Evaporation",
-      "Fractional distillation",
-      "Sublimation"
-    ],
+    "options": ["Sterilisation", "Evaporation", "Fractional distillation", "Sublimation"],
     "correct_answer": "Fractional distillation",
     "explanation": "Fractional distillation uses a fractionating column to separate miscible liquids based on differences in their boiling points."
   },
   {
-    "id": "pharm_q80",
+    "id": 80,
     "question": "The temperature required for the sterilisation by moist heat in an autoclave is",
-    "options": [
-      "121°C",
-      "100°C",
-      "160°C",
-      "115°C"
-    ],
+    "options": ["121°C", "100°C", "160°C", "115°C"],
     "correct_answer": "121°C",
     "explanation": "Standard autoclave sterilization requires saturated steam under 15 psi pressure reaching 121°C for 15-20 minutes."
   },
   {
-    "id": "pharm_q81",
+    "id": 81,
     "question": "Ophthalmic solutions must be prepared with",
-    "options": [
-      "Isotonicity and sterility",
-      "High viscosity only",
-      "Hypertonicity",
-      "None of the above"
-    ],
+    "options": ["Isotonicity and sterility", "High viscosity only", "Hypertonicity", "None of the above"],
     "correct_answer": "Isotonicity and sterility",
     "explanation": "Ophthalmic preparations must be sterile and iso-osmotic with lachrymal fluid to prevent eye irritation or microbial contamination."
   },
   {
-    "id": "pharm_q82",
+    "id": 82,
     "question": "In dry granulation method, binding agent is added in which form",
-    "options": [
-      "Liquid solution",
-      "Dry powder form",
-      "Slurry",
-      "Melted form"
-    ],
+    "options": ["Liquid solution", "Dry powder form", "Slurry", "Melted form"],
     "correct_answer": "Dry powder form",
     "explanation": "In dry granulation (slugging or roller compaction), dry binders are blended in powder form before compaction without liquid solvents."
   },
   {
-    "id": "pharm_q83",
+    "id": 83,
     "question": "Co-solvent used in parenteral preparations to increase solubility is",
-    "options": [
-      "Propylene glycol",
-      "Mineral oil",
-      "Cottonseed oil",
-      "Paraffin"
-    ],
+    "options": ["Propylene glycol", "Mineral oil", "Cottonseed oil", "Paraffin"],
     "correct_answer": "Propylene glycol",
     "explanation": "Water-miscible solvents like propylene glycol, ethanol, and polyethylene glycol function as co-solvents in injections."
   },
   {
-    "id": "pharm_q84",
+    "id": 84,
     "question": "The size of particles in a suspension is generally in the range of",
-    "options": [
-      "0.5 to 50 microns",
-      "1 to 10 mm",
-      "100 to 500 microns",
-      "Less than 1 nm"
-    ],
+    "options": ["0.5 to 50 microns", "1 to 10 mm", "100 to 500 microns", "Less than 1 nm"],
     "correct_answer": "0.5 to 50 microns",
     "explanation": "Coarse pharmaceutical suspensions typical feature dispersed solid drug particles in the range of 0.5 to 50 micrometers."
   },
   {
-    "id": "pharm_q85",
+    "id": 85,
     "question": "Tyndallization is also known as",
-    "options": [
-      "Intermittent sterilisation",
-      "Dry heat sterilisation",
-      "Pasteurisation",
-      "Gaseous sterilisation"
-    ],
+    "options": ["Intermittent sterilisation", "Dry heat sterilisation", "Pasteurisation", "Gaseous sterilisation"],
     "correct_answer": "Intermittent sterilisation",
     "explanation": "Tyndallization involves heating solutions to 80-100°C for 30-60 minutes on three consecutive days to destroy bacterial spores as they germinate."
   },
   {
-    "id": "pharm_q86",
+    "id": 86,
     "question": "The HLB value range for emulsifying agents forming W/O emulsions is",
-    "options": [
-      "3 to 6",
-      "8 to 16",
-      "13 to 15",
-      "16 to 18"
-    ],
+    "options": ["3 to 6", "8 to 16", "13 to 15", "16 to 18"],
     "correct_answer": "3 to 6",
     "explanation": "Lipophilic surfactants with low HLB values (3 to 6) favor water-in-oil (W/O) emulsion formation."
   },
   {
-    "id": "pharm_q87",
+    "id": 87,
     "question": "Capping in tablets is defined as",
     "options": [
       "Partial or complete separation of the top or bottom crown of the tablet",
@@ -1044,158 +614,93 @@
     "explanation": "Capping occurs when trapped air expands, causing the top or bottom surface cap to detach horizontally from the main tablet body."
   },
   {
-    "id": "pharm_q88",
+    "id": 88,
     "question": "The mechanism of action of surface active agents in emulsions is",
-    "options": [
-      "Reducing interfacial tension",
-      "Increasing interfacial tension",
-      "Increasing particle mass",
-      "Decreasing boiling point"
-    ],
+    "options": ["Reducing interfacial tension", "Increasing interfacial tension", "Increasing particle mass", "Decreasing boiling point"],
     "correct_answer": "Reducing interfacial tension",
     "explanation": "Emulsifiers lower the thermodynamic interfacial tension between oil and water phases to stabilize dispersed droplets."
   },
   {
-    "id": "pharm_q89",
+    "id": 89,
     "question": "The apparatus used for testing friability of tablets is",
-    "options": [
-      "Roche Friabilator",
-      "Monsanto tester",
-      "Pfizer tester",
-      "Disintegration apparatus"
-    ],
+    "options": ["Roche Friabilator", "Monsanto tester", "Pfizer tester", "Disintegration apparatus"],
     "correct_answer": "Roche Friabilator",
     "explanation": "The Roche Friabilator measures tablet resistance to abrasion and impact during tumbling."
   },
   {
-    "id": "pharm_q90",
+    "id": 90,
     "question": "An example of a natural emulsifying agent obtained from plant source is",
-    "options": [
-      "Acacia",
-      "Gelatin",
-      "Wool fat",
-      "Egg yolk"
-    ],
+    "options": ["Acacia", "Gelatin", "Wool fat", "Egg yolk"],
     "correct_answer": "Acacia",
     "explanation": "Acacia gum is a plant polysaccharide widely utilized as a hydrocolloid emulsifying agent."
   },
   {
-    "id": "pharm_q91",
+    "id": 91,
     "question": "Creaming in emulsions is a",
-    "options": [
-      "Reversible phenomenon",
-      "Irreversible phenomenon",
-      "Chemical breakdown",
-      "Permanent phase separation"
-    ],
+    "options": ["Reversible phenomenon", "Irreversible phenomenon", "Chemical breakdown", "Permanent phase separation"],
     "correct_answer": "Reversible phenomenon",
     "explanation": "Creaming involves droplet movement driven by density differences without droplet coalescence, allowing redispersibility upon shaking."
   },
   {
-    "id": "pharm_q92",
+    "id": 92,
     "question": "Which of the following is an example of an enteric polymer?",
-    "options": [
-      "Cellulose acetate phthalate (CAP)",
-      "Methylcellulose",
-      "Ethylcellulose",
-      "Sodium carboxymethylcellulose"
-    ],
+    "options": ["Cellulose acetate phthalate (CAP)", "Methylcellulose", "Ethylcellulose", "Sodium carboxymethylcellulose"],
     "correct_answer": "Cellulose acetate phthalate (CAP)",
     "explanation": "Cellulose acetate phthalate contains ionizable carboxyl groups that remain insoluble at stomach pH but dissolve in intestinal fluids."
   },
   {
-    "id": "pharm_q93",
+    "id": 93,
     "question": "LAL test is used to detect",
-    "options": [
-      "Bacterial endotoxins/pyrogens",
-      "Heavy metals",
-      "Sterility",
-      "Particulate matter"
-    ],
+    "options": ["Bacterial endotoxins/pyrogens", "Heavy metals", "Sterility", "Particulate matter"],
     "correct_answer": "Bacterial endotoxins/pyrogens",
     "explanation": "The Limulus Amebocyte Lysate (LAL) in vitro assay detects lipopolysaccharide endotoxins in parenteral products."
   },
   {
-    "id": "pharm_q94",
+    "id": 94,
     "question": "HEPA filters are capable of removing particles down to what size with 99.97% efficiency?",
-    "options": [
-      "0.3 microns",
-      "5 microns",
-      "10 microns",
-      "0.01 microns"
-    ],
+    "options": ["0.3 microns", "5 microns", "10 microns", "0.01 microns"],
     "correct_answer": "0.3 microns",
     "explanation": "High-Efficiency Particulate Air (HEPA) filters trap at least 99.97% of airborne particles measuring 0.3 micrometers."
   },
   {
-    "id": "pharm_q95",
+    "id": 95,
     "question": "Suppositories intended for insertion into the vagina are called",
-    "options": [
-      "Pessaries",
-      "Bougies",
-      "Nasal bougies",
-      "Ear cones"
-    ],
+    "options": ["Pessaries", "Bougies", "Nasal bougies", "Ear cones"],
     "correct_answer": "Pessaries",
     "explanation": "Vaginal suppositories are medically referred to as pessaries."
   },
   {
-    "id": "pharm_q96",
+    "id": 96,
     "question": "The displacement value is considered in the preparation of",
-    "options": [
-      "Suppositories",
-      "Tablets",
-      "Ointments",
-      "Capsules"
-    ],
+    "options": ["Suppositories", "Tablets", "Ointments", "Capsules"],
     "correct_answer": "Suppositories",
     "explanation": "Displacement value accounts for the volume of base displaced by active drug powder when formulating molded suppositories."
   },
   {
-    "id": "pharm_q97",
+    "id": 97,
     "question": "Cocoa butter is also known as",
-    "options": [
-      "Theobroma oil",
-      "Lard",
-      "Wool fat",
-      "Carnauba wax"
-    ],
+    "options": ["Theobroma oil", "Lard", "Wool fat", "Carnauba wax"],
     "correct_answer": "Theobroma oil",
     "explanation": "Theobroma oil (cocoa butter) is a yellow fat extracted from roasted seeds of Theobroma cacao, used as a suppository base."
   },
   {
-    "id": "pharm_q98",
+    "id": 98,
     "question": "The polymorph of cocoa butter with the most stable melting point (~34-35°C) is",
-    "options": [
-      "Beta form",
-      "Alpha form",
-      "Gamma form",
-      "Beta prime form"
-    ],
+    "options": ["Beta form", "Alpha form", "Gamma form", "Beta prime form"],
     "correct_answer": "Beta form",
-    "explanation": "The stable beta ($\beta$) crystalline form of cocoa butter melts near body temperature (34-35°C)."
+    "explanation": "The stable beta crystalline form of cocoa butter melts near body temperature (34-35°C)."
   },
   {
-    "id": "pharm_q99",
+    "id": 99,
     "question": "Which apparatus is officially used for tablet dissolution testing (USP Type 1)?",
-    "options": [
-      "Basket apparatus",
-      "Paddle apparatus",
-      "Reciprocating cylinder",
-      "Flow-through cell"
-    ],
+    "options": ["Basket apparatus", "Paddle apparatus", "Reciprocating cylinder", "Flow-through cell"],
     "correct_answer": "Basket apparatus",
     "explanation": "USP Dissolution Apparatus 1 consists of a rotating wire mesh basket."
   },
   {
-    "id": "pharm_q100",
+    "id": 100,
     "question": "Parenteral preparations must strictly meet standards for being free of",
-    "options": [
-      "Pyrogens and viable microorganisms",
-      "Flavors and colorings",
-      "Surfactants",
-      "Buffer salts"
-    ],
+    "options": ["Pyrogens and viable microorganisms", "Flavors and colorings", "Surfactants", "Buffer salts"],
     "correct_answer": "Pyrogens and viable microorganisms",
     "explanation": "Parenterals injected directly into systemic circulation must be completely sterile and pyrogen-free."
   }
